@@ -3,7 +3,7 @@
 
     $txt = '';
     if (isset($_GET['date'], $_GET['message'])) {
-        $date_diff = calcDate($_GET['date']);
+        $date_diff = calcDate(urldecode(trim($_GET['date'])));
         $msg = filter_var(urldecode($_GET['message']), FILTER_SANITIZE_STRING);
         $txt = '<strong>' . $date_diff . '</strong>' . $msg;
     }
