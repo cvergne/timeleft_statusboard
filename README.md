@@ -16,7 +16,7 @@ Currently, the keyboard in Status Board is set in "URL mode". So you can't type 
 * **`date`** : A date in english ( _ie, 2013-06-02 or 2013-06-02%2018:30_ )
 * **`message`** : Text to display just after the time left
 * `lang` : The lang to display time left. Default is `en`.
-	* Currently available : `en` | `fr`
+	* Currently available : `en` | `fr` | `de`
 * `autorefresh` : the widget refresh itself each 59 seconds. You can pass an other value to this parameter, or `false` if you want to disable autorefresh.
 
 [ _**bold** parameter means it is mandatory_ ]
