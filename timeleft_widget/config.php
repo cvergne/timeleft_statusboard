@@ -28,6 +28,19 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE1mlDQ1BJQ0
             'months' => 'mois',
             'year' => 'année',
             'years' => 'années'
+        ),
+        'de' => array(
+            'now' => 'Jetzt',
+            'minute' => 'Minute',
+            'minutes' => 'Minuten',
+            'hour' => 'Stunde',
+            'hours' => 'Stunden',
+            'day' => 'Tag',
+            'days' => 'Tage',
+            'month' => 'Monat',
+            'months' => 'Monate',
+            'year' => 'Jahr',
+            'years' => 'Jahre'
         )
     );
 
