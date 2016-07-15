@@ -22,9 +22,9 @@ Currently, the keyboard in Status Board is set in "URL mode". So you can't type 
 [ _**bold** parameter means it is mandatory_ ]
 
 ### Screenshot
-![Screenshot](https://dl.dropboxusercontent.com/u/2185088/timeleft_statusboard.png)
+![Screenshot](timeleft_statusboard-2.png)
 
 ### License
-**Script:** Copyright 2013 Christophe VERGNE  
+**Script:** MIT  
 
 
